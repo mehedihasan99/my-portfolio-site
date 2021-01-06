@@ -105,11 +105,11 @@ p{
 footer img{
     width: 900px;
     height: 180px;
-    margin-left: 380px;
+    margin-left: 300px;
 }
 footer h2{
-    margin-left:450px ;
-    margin-top: -7%;
+    margin-left:350px ;
+    margin-top: -5.5%;
     padding-left: 12px;
     font-size: 45px;
     color: white;
@@ -117,6 +117,6 @@ footer h2{
 }
 .chat{
   
-    margin-left: 65%;
+    margin-left: 70%;
     margin-top: -4.5%;
 }
