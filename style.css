@@ -102,12 +102,21 @@ p{
 #skill-box h3:hover{
     color: #FF8367;
 }
-footer img{
-    width: 900px;
-    height: 180px;
-    margin-left: 300px;
+
+.footx{
+    width: 90%;
+
 }
-footer h2{
+.foot{
+    margin-bottom: 8%;
+}
+.foot img{
+    width: 850px;
+    height: 180px;
+    margin-left: 260px;
+}
+.foot h2{
+    margin-right: 20px;
     margin-left:350px ;
     margin-top: -10%;
     padding-left: 12px;
@@ -115,8 +124,31 @@ footer h2{
     color: white;
     font-weight: normal;
 }
-.chat{
-  
-    margin-left: 76%;
-    margin-top: -10%;
+.foot a{
+    margin-left: 30%;
+    font-size: 20px;
+    
+}
+.back-color{
+    background-color: white;
+}
+.media p{
+    color: dimgray;
+    font-size: 15px;
+    text-align: center;
+}
+.media h2{
+    text-align: center;
+    color: rgb(88, 85, 85);
+}
+.media-icon{
+    height: 60px;
+    text-align: center;
+}
+.media-icon img{
+   width: 35px;
+   padding:2px;
+}
+.footx{
+    background-color: white;
 }
