@@ -4,6 +4,7 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
+    color:rgb(54,57,88)
 }
 .manu{
     height: 80px;
@@ -47,7 +48,6 @@ p{
         text-decoration: none;
         background-image: linear-gradient( #FF8367,tomato);
         padding: 10px 20px;
-        margin-top: 10px;
         background-color: rgb(112, 25, 25);
         color: white;
         border-radius: 5px;
@@ -69,7 +69,7 @@ p{
     margin-right: 35px;
 }
 .work-part{
-    margin-top: 38%;
+    margin-top: 34%;
     
 }
 .work-part h2{
@@ -102,7 +102,6 @@ p{
 #skill-box h3:hover{
     color: #FF8367;
 }
-
 .footx{
     width: 90%;
 
@@ -111,16 +110,16 @@ p{
     margin-bottom: 8%;
 }
 .foot img{
-    width: 850px;
+    width: 840px;
     height: 180px;
     margin-left: 260px;
 }
 .foot h2{
-    margin-right: 20px;
-    margin-left:350px ;
+    margin-right: 18px;
+    margin-left:340px ;
     margin-top: -10%;
     padding-left: 12px;
-    font-size: 45px;
+    font-size: 40px;
     color: white;
     font-weight: normal;
 }
@@ -139,7 +138,7 @@ p{
 }
 .media h2{
     text-align: center;
-    color: rgb(88, 85, 85);
+    
 }
 .media-icon{
     height: 60px;
